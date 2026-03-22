@@ -60,7 +60,7 @@ export const handler: Handler = async (event) => {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        from: 'BIASHARA360 <noreply@biashara360.co.ke>',
+        from: 'BIASHARA360 <onboarding@resend.dev>',
         to: [email],
         subject: 'Your BIASHARA360 PIN Reset Code',
         html: `
