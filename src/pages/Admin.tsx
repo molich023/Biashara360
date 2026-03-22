@@ -5,7 +5,7 @@ import { db } from '@/db/local'
 
 // ─── ADMIN PIN ─────────────────────────────────────────────────
 // Change this to your own secret admin PIN
-const ADMIN_PIN = '360360'
+const ADMIN_PIN = '000000'
 
 interface ShopSummary {
   id: string
